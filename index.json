@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "scirpy",
+  "versions": [
+    {
+      "commit": "8496483d777ee439d02290ec5ad9210944f3f1f0",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:05:47.516763+00:00"
+    }
+  ]
+}
