@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/scirpy/commit/8496483d777ee439d02290ec5ad9210944f3f1f0",
       "git:hexsha": "8496483d777ee439d02290ec5ad9210944f3f1f0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T21:05:47.516028+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/scirpy/commit/c1cd6ff889d07cf9e3eefae2e40e4b6d4ba035ed",
